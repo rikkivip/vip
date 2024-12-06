@@ -377,7 +377,7 @@ DOMAIN-SUFFIX,toutiaopage.com
 DOMAIN-SUFFIX,toutiaoribao.cn
 DOMAIN-SUFFIX,toutiaoribao.net
 DOMAIN-SUFFIX,toutiaostatic.com
-DOMAIN-SUFFIX,toutiaovod.com
+DOMAIN-SUFFIX,toutiaovod.com:443
 DOMAIN-SUFFIX,toutiaowap.cn
 DOMAIN-SUFFIX,toutiaowap.com
 DOMAIN-SUFFIX,toutiaowap.net
